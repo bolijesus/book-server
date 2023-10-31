@@ -1,0 +1,15 @@
+{
+  "name": "servidor-web",
+  "version": "1.0.0",
+  "description": "Servidor para leer los libros que se paaron de .EPUB a HTML5 en la página https://www.aconvert.com/es/ebook/epub-to-html/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus bolivar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "forever": "^4.0.3"
+  }
+}
